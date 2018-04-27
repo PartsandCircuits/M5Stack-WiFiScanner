@@ -3,13 +3,6 @@
 <br />
 <br />
 
-<p align="center">
- 
-<img src="https://github.com/PartsandCircuits/M5Stack-WiFiScanner/blob/master/WiFiScanner.png" width="300">
-
-</p>
-
-<br />
 
 ## About
 

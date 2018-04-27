@@ -6,7 +6,6 @@
 - The original listing by tobozo can be found [here](https://github.com/tobozo/M5Stack-SD-Updater) and it is also relisted [here](https://github.com/PartsandCircuits/M5Stack-SD-Updater) on the *Parts and Circuits* github pages.
 
 <br />
-<br />
 
 ## Instructions
 

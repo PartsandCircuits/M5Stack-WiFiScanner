@@ -17,6 +17,6 @@
 
 - Copy the file *WiFiScanner.json* to the JSON directory of your Micro SD card.
 
-- Insert the Micro SD card into an M5Stack unit that has been flashed with the file *"M5Stack-SD-Menu.ino"*. The method for flashing this file to the M5Stack is outlined on the page for the *"M5Stack-SD-Updater"* menu program. Refer to the heading "Unpacking" - see point (3).
+- Insert the Micro SD card into an M5Stack unit that has been flashed with the file *"M5enu.bin"*. The method for flashing this file to the M5Stack is outlined on the page for the *"M5Stack-SD-Updater"* menu program. Refer to the heading "Unpacking" - see point (3).
 
 
